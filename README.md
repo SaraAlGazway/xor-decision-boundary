@@ -16,6 +16,10 @@
 - Clear non-linear decision boundary
 - Red/Blue regions matching the correct classes
 
+## 🎨 Decision Boundary
+
+![XOR Decision Boundary](decision-boundary.png)
+
 ## 🏗️ TestModel Architecture
 
 | Layer | Type | Input | Output |
