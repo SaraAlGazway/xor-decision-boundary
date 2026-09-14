@@ -31,7 +31,7 @@
 
 **Total Parameters:** 21
 
-## 🎨 Visualization
+## 🔍 Reading the Plot
 
 The decision boundary shows:
 
@@ -43,6 +43,12 @@ The decision boundary shows:
 
 1. Open `xor-decision-boundary-visualization.ipynb`
 2. Run all cells
+3. Check the decision boundary plot
+
+## 📦 Requirements
+
+```bash
+pip install torch numpy matplotlib
 3. Check the decision boundary plot
 
 ## 📦 Requirements
